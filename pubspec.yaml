@@ -1,0 +1,15 @@
+name: ronan_portfolio_app
+description: Portfolio App
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  font_awesome_flutter: ^10.6.0
+  url_launcher: ^6.2.1
+
+flutter:
+  uses-material-design: true
