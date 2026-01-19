@@ -31,7 +31,7 @@ Download the .apk file below. You may need to "Allow installation from unknown s
 
 Get the Android version of my portfolio to see my Flutter skills in action.
 
-[![Download for Android](https://img.shields.io/badge/Download-Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Ronan-R-R/YOUR-REPO-NAME/releases/latest)
+[![Download for Android](https://img.shields.io/badge/Download-Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Ronan-R-R/Portfolio-App/releases/latest)
 
 1. Click the button above.
 2. Under "Assets", select **Ronan-Portfolio-v1.0.apk**.
